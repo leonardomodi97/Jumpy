@@ -1,0 +1,5 @@
+/home/leonardo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/leonardo/Desktop/Leo/Scuola/Jumpy
+-- Found SFML .. in /home/leonardo/Desktop/Leo/Scuola/Jumpy/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/leonardo/Desktop/Leo/Scuola/Jumpy/cmake-build-debug

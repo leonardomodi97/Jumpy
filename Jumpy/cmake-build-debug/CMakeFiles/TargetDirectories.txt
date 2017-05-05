@@ -1,0 +1,3 @@
+/home/leonardo/Desktop/Leo/Scuola/Jumpy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leonardo/Desktop/Leo/Scuola/Jumpy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leonardo/Desktop/Leo/Scuola/Jumpy/cmake-build-debug/CMakeFiles/Jumpy.dir
